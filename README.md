@@ -143,7 +143,7 @@ def parse(pdf_path: str) -> pd.DataFrame:
 
 - `google-generativeai`: LLM integration
 - `pandas`: Data manipulation and comparison  
-- `PyPDF2`: PDF text extraction
+- `pdfplumber`: PDF text extraction
 - `pytest`: Testing framework
 
 ## Error Handling
