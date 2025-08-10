@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 """
 AI Agent for Bank Statement Parser Generation
-Author: Claude Sonnet 4
 Description: An autonomous agent that generates custom parsers for bank statement PDFs
 """
 
@@ -370,4 +369,5 @@ def main():
         sys.exit(1)
 
 if __name__ == "__main__":
+
     main()
